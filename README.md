@@ -64,6 +64,28 @@ Price/Volume Trend Analysis (Code: Price_Trend_Module Volume_Trend_Module)
 
 ### Correlation Analysis
 
+Correlation Analysis (Correlation_Analysis_Module.ipynb)
+	- Correlation Matrix
+  - Tool: Spark ML
+  - Method: Pearson correlation matrix
+	
+Covariance (Correlation_Analysis_Module.ipynb)
+  - measure of the relationship between two coins
+  - Tool: RDD Transformation
+
+
+Pandemic Impact (Correlation_Analysis_Module.ipynb)
+  - Price and Volume Trend during Pandemic
+  - Tool: DF Transformation
+
+
+Linear Regression (Linear_Regression_Analysis_Module.ipynb)
+  - Linear Regression module of Top-10 coins.
+  - Tool: Spark ML
+
+Gold Trade Data Correlation (Gold_Data_Analysis_Module.ipynb)
+  - MCX India Trade Data
+  - Correlation of 4 years Gold Trade and Top-10 Coins
 
 
  
