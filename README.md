@@ -87,7 +87,7 @@ Gold Trade Data Correlation (Gold_Data_Analysis_Module.ipynb)
   - MCX India Trade Data
   - Correlation of 4 years Gold Trade and Top-10 Coins
 
-### NOTE: The code is using Shared Drive path for accessing dataset. The data path must be updated accordingly.
+### NOTE: The code is using Shared Drive path for accessing dataset "/content/drive/Shareddrives/ProjectSharedDrive/wazirxCSVCumulative".  If you want to access the data uploaded to this repository instead of shared drive, the data path must be updated accordingly.
  
 
  
